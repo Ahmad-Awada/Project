@@ -14,4 +14,5 @@ Order of Functions or Scripts to use:
 
 Optional
 7. MATLAB: timeAnalysis(seqnum) - Will use non-paired tests to measure significant changes accross time points, results exported as csv. A sufficient sample size and independent samples are nescessary for score reliability 
+
 8. makeRois(workdir); - ROI data generated and exported to ROI file. File can be imported in Fiji or other software for data exploration.
