@@ -1,4 +1,6 @@
-Order of Functions or Scripts to use: 
+All non Matlab scripts are found in "Main script 4", load it into Fiji/Imagej, scroll down to the bottom of the script, and follow the instructions to run the scripts required for your project.
+
+Order of Scripts to use: 
 1. stack2Images(workdir) - Converts stacks from a .lif sequence into organised '.png' images. It will process stacks in the interval given
 
 2. MATLAB: deNoise(workdir) - Imports each image from step 1, denoise and export into folder structure.
